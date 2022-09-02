@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Scene",
+        "icon": "bi-bullseye",
+        "path": "/scene"
+    },
+    {
+        "title": "Point of Interest",
+        "icon": "bi-binoculars",
+        "path": "/point-of-interest"
+    },
+
+    {
+        "title": "Sticker",
+        "icon": "bi-stars",
+        "path": "/sticker"
+    },
+    {
+        "title": "Material",
+        "icon": "bi-bricks",
+        "path": "/material"
+    },
+    {
+        "title": "Animation",
+        "icon": "bi-camera-reels",
+        "path": "/animation"
+    },
+    {
+        "title": "Optimize",
+        "icon": "bi-flag",
+        "path": "/optimize"
+    },
+    {
+        "title": "Batch",
+        "icon": "bi-flower1",
+        "path": "/batch"
+    },
+    {
+        "title": "Manual",
+        "icon": "bi-person-workspace",
+        "path": "/manual"
+    },
+    {
+        "title": "Share",
+        "icon": "bi-clipboard2-check-fill",
+        "path": "/share"
+    },
+    {
+        "title": "My Libary",
+        "icon": "bi-box",
+        "path": "/my-libary"
+    }
+]

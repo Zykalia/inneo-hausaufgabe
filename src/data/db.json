@@ -1,0 +1,14 @@
+{
+    "interactions": [
+      {
+        "title": "Open cover",
+        "animation": "animation1",
+        "id": 1
+      },
+      {
+        "title": "Spin left gear",
+        "animation": "animation2",
+        "id": 2
+      }
+    ]
+}
